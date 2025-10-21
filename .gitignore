@@ -23,6 +23,7 @@ yarn-error.log*
 example.py
 tester.py
 data/
+graphs/
 
 # C extensions
 *.so
