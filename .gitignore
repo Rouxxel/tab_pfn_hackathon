@@ -24,6 +24,7 @@ example.py
 tester.py
 data/
 graphs/
+TabPFNModels/
 
 # C extensions
 *.so
