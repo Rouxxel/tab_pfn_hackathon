@@ -25,6 +25,7 @@ tester.py
 graphs/
 TabPFNModels/
 *.csv
+kaggle.json
 
 # C extensions
 *.so
